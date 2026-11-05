@@ -1,0 +1,13 @@
+=== RESUMEN DE COINCIDENCIAS ===
+
+Muestra: muestra_2
+  - GGA: 3 coincidencias
+  - TAC: 2 coincidencias
+  - ACG: 2 coincidencias
+
+Muestra: muestra_1
+  - GGA: 2 coincidencias
+  - TAC: 2 coincidencias
+  - ACG: 3 coincidencias
+
+Motivos que NO aparecieron en ninguna muestra: Ninguno (todos aparecieron)

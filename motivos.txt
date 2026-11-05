@@ -1,0 +1,7 @@
+# Este es un archivo de motivos
+# El programa debe ignorar estos comentarios y las lineas vacias
+
+ACG
+TAC
+GGA
+acg

@@ -1,0 +1,2 @@
+--- REPORTE DE ERRORES DE VALIDACION ---
+Linea 3: La muestra 'muestra_1' contiene caracteres invalidos.
