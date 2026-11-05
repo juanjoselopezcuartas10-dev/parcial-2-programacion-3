@@ -1,0 +1,6 @@
+# Mismo mapa, pero con símbolos y nombres que hay que escapar en XML
+X X X X X X
+X S . & M X
+X . X . . X
+X . < . . X
+X X X X X X

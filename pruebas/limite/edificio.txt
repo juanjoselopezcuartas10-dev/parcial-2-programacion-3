@@ -1,0 +1,7 @@
+# Edificio del enunciado (5 filas x 6 columnas)
+X X X X X X
+X S . L M X
+
+X . X . . X
+X . . . . X
+X X X X X X

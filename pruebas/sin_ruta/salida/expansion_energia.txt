@@ -1,0 +1,7 @@
+Paso 0: (1,1)=0
+Paso 1: (1,1)=0 | (1,2)=1 | (2,1)=1
+Paso 2: (1,1)=0 | (1,2)=1 | (2,1)=1 | (3,1)=2
+Paso 3: (1,1)=0 | (1,2)=1 | (2,1)=1 | (3,1)=2 | (3,2)=3
+Paso 4: (1,1)=0 | (1,2)=1 | (2,1)=1 | (3,1)=2 | (3,2)=3 | (3,3)=4
+Índice de estabilización: 4 (el paso 5 es igual al paso 4)
+La meta (1,4) no es alcanzable con B = 4: se omite la enumeración de recorridos.

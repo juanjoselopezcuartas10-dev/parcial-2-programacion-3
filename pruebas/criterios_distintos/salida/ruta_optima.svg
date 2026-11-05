@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="368" viewBox="0 0 420 368" font-family="Arial, sans-serif">
+<title>Ruta de menor energía del robot de rescate</title>
+<rect x="0" y="0" width="420" height="368" fill="#ffffff"/>
+<g><title>X: pared, posición (0,0), costo 0</title><rect x="0" y="0" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="20" y="26" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (0,1), costo 0</title><rect x="40" y="0" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="60" y="26" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (0,2), costo 0</title><rect x="80" y="0" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="100" y="26" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (0,3), costo 0</title><rect x="120" y="0" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="140" y="26" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (0,4), costo 0</title><rect x="160" y="0" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="180" y="26" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (0,5), costo 0</title><rect x="200" y="0" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="220" y="26" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (1,0), costo 0</title><rect x="0" y="40" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="20" y="66" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>S: inicio, posición (1,1), costo 0</title><rect x="40" y="40" width="40" height="40" fill="#8ad08a" stroke="#999999"/><text x="60" y="66" text-anchor="middle" font-size="18" fill="#222222">S</text></g>
+<g><title>.: pasillo, posición (1,2), costo 1</title><rect x="80" y="40" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="100" y="66" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>L: lodo, posición (1,3), costo 6</title><rect x="120" y="40" width="40" height="40" fill="#c9a66b" stroke="#999999"/><text x="140" y="66" text-anchor="middle" font-size="18" fill="#222222">L</text></g>
+<g><title>M: meta, posición (1,4), costo 1</title><rect x="160" y="40" width="40" height="40" fill="#f2c14e" stroke="#999999"/><text x="180" y="66" text-anchor="middle" font-size="18" fill="#222222">M</text></g>
+<g><title>X: pared, posición (1,5), costo 0</title><rect x="200" y="40" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="220" y="66" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (2,0), costo 0</title><rect x="0" y="80" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="20" y="106" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>.: pasillo, posición (2,1), costo 1</title><rect x="40" y="80" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="60" y="106" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>X: pared, posición (2,2), costo 0</title><rect x="80" y="80" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="100" y="106" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>.: pasillo, posición (2,3), costo 1</title><rect x="120" y="80" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="140" y="106" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>.: pasillo, posición (2,4), costo 1</title><rect x="160" y="80" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="180" y="106" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>X: pared, posición (2,5), costo 0</title><rect x="200" y="80" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="220" y="106" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (3,0), costo 0</title><rect x="0" y="120" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="20" y="146" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>.: pasillo, posición (3,1), costo 1</title><rect x="40" y="120" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="60" y="146" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>.: pasillo, posición (3,2), costo 1</title><rect x="80" y="120" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="100" y="146" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>.: pasillo, posición (3,3), costo 1</title><rect x="120" y="120" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="140" y="146" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>.: pasillo, posición (3,4), costo 1</title><rect x="160" y="120" width="40" height="40" fill="#efe6c8" stroke="#999999"/><text x="180" y="146" text-anchor="middle" font-size="18" fill="#222222">.</text></g>
+<g><title>X: pared, posición (3,5), costo 0</title><rect x="200" y="120" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="220" y="146" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (4,0), costo 0</title><rect x="0" y="160" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="20" y="186" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (4,1), costo 0</title><rect x="40" y="160" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="60" y="186" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (4,2), costo 0</title><rect x="80" y="160" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="100" y="186" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (4,3), costo 0</title><rect x="120" y="160" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="140" y="186" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (4,4), costo 0</title><rect x="160" y="160" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="180" y="186" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<g><title>X: pared, posición (4,5), costo 0</title><rect x="200" y="160" width="40" height="40" fill="#4a4a4a" stroke="#999999"/><text x="220" y="186" text-anchor="middle" font-size="18" fill="#dddddd">X</text></g>
+<line x1="60" y1="60" x2="60" y2="100" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+<line x1="60" y1="100" x2="60" y2="140" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+<line x1="60" y1="140" x2="100" y2="140" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+<line x1="100" y1="140" x2="140" y2="140" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+<line x1="140" y1="140" x2="140" y2="100" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+<line x1="140" y1="100" x2="180" y2="100" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+<line x1="180" y1="100" x2="180" y2="60" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+<circle cx="60" cy="60" r="8" fill="#ffffff" stroke="#d62728" stroke-width="3"/>
+<circle cx="180" cy="60" r="8" fill="#d62728" stroke="#d62728" stroke-width="3"/>
+<rect x="10" y="216" width="16" height="16" fill="#efe6c8" stroke="#999999"/><text x="34" y="229" font-size="13" fill="#222222">. = pasillo (costo 1)</text>
+<rect x="10" y="240" width="16" height="16" fill="#c9a66b" stroke="#999999"/><text x="34" y="253" font-size="13" fill="#222222">L = lodo (costo 6)</text>
+<rect x="10" y="264" width="16" height="16" fill="#f2c14e" stroke="#999999"/><text x="34" y="277" font-size="13" fill="#222222">M = meta (costo 1)</text>
+<rect x="10" y="288" width="16" height="16" fill="#8ad08a" stroke="#999999"/><text x="34" y="301" font-size="13" fill="#222222">S = inicio (costo 0)</text>
+<rect x="10" y="312" width="16" height="16" fill="#4a4a4a" stroke="#999999"/><text x="34" y="325" font-size="13" fill="#222222">X = pared (no transitable)</text>
+<line x1="10" y1="344" x2="26" y2="344" stroke="#d62728" stroke-width="5" stroke-linecap="round"/><text x="34" y="349" font-size="13" fill="#222222">Ruta de menor energía: 7 de energía, 7 movimientos</text>
+</svg>

@@ -1,0 +1,4 @@
+RESUMEN DE RESCATE
+Edificio: 5 filas x 6 columnas | Energía máxima B = 4
+Total de recorridos válidos: 0
+No existe ningún recorrido válido de S a M con B = 4.

@@ -1,0 +1,7 @@
+# Edificio con errores a propósito
+X X . X X X
+X S . L M X
+X . Z . . X
+X . . . X
+X S . . . .
+X X X X X X

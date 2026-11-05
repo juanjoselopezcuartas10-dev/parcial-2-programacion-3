@@ -1,0 +1,3 @@
+# dos valores de B
+10
+20

@@ -1,0 +1,11 @@
+terrenos.csv línea 7: el símbolo '.' está repetido
+terrenos.csv línea 8: transitable debe ser 'si' o 'no' y se leyó 'quizas'
+terrenos.csv línea 8: el costo debe ser un entero no negativo y se leyó -1
+terrenos.csv línea 9: una casilla transitable distinta de S debe tener costo positivo
+terrenos.csv línea 10: se esperaban 4 campos y hay 3
+edificio.txt línea 5: la fila tiene 5 columnas y se esperaban 6
+edificio.txt línea 4, posición (2, 2): el símbolo 'Z' no está definido en terrenos.csv
+edificio.txt línea 6, posición (4, 1): 'S' repetido: debe haber exactamente uno
+edificio.txt línea 2, posición (0, 2): el borde debe ser 'X' y hay '.'
+edificio.txt línea 6, posición (4, 5): el borde debe ser 'X' y hay '.'
+bateria.txt línea 1: B debe ser un entero positivo y se leyó 'abc'

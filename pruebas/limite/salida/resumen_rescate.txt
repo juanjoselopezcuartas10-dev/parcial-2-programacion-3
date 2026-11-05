@@ -1,0 +1,9 @@
+RESUMEN DE RESCATE
+Edificio: 5 filas x 6 columnas | Energía máxima B = 5
+Total de recorridos válidos: 1
+
+Recorridos con menos movimientos (3 movimientos): 1
+  - id 1: energía 5, (1,1)->(1,2)->(1,3)->(1,4)
+
+Recorridos con menor energía (5): 1
+  - id 1: 3 movimientos, (1,1)->(1,2)->(1,3)->(1,4)

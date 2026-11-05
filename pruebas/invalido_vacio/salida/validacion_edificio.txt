@@ -1,0 +1,2 @@
+edificio.txt: el edificio está vacío
+bateria.txt línea 1: B debe ser un entero positivo y se leyó '0'
